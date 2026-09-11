@@ -129,37 +129,4 @@ Execution times were measured to study how synchronization mechanisms and worklo
 
 ---
 
-## Key Concepts
 
-This project demonstrates practical understanding of:
-
-- Thread creation and management
-- Parallel task execution
-- Static and dynamic scheduling
-- Workload distribution
-- Mutual exclusion
-- Atomic operations
-- Race-condition prevention
-- Critical sections
-- Semaphores and locks
-- Producer–Consumer synchronization
-- Synchronization overhead
-- Parallel performance and scalability
-
----
-
-## Project Structure
-
-```text
-Multithreading-Scheduling-Synchronization/
-│
-├── Sudoku/
-│   └── Parallel Sudoku validation
-│
-├── Dynamic-Sudoku/
-│   └── Dynamic task allocation and atomic synchronization
-│
-├── Producer-Consumer/
-│   └── Bounded-buffer implementation
-│
-└── README.md
